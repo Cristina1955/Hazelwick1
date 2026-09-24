@@ -1,2 +1,6 @@
-name1=input("enter your name")
-name2=input ("enter your name")
+User1=input("enter your name")
+User2=input ("enter your name")
+print(User1)
+print(User2)
+print(User1)
+print(User2)
