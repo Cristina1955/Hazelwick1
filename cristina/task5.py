@@ -1,0 +1,5 @@
+Attribute=input("Enter a physical attribute :") 
+texture=input("Enter a texture:")
+noise=input("Enter a noise:")
+name=input("Enter a made-up creature name:")
+print("behold! The texture +"-"attribute + "ed" + done!")
