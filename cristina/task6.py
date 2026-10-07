@@ -1,0 +1,8 @@
+name1=input("Enter your name user 1")
+name2=input("Enter your name user 2")
+name3=input("Enter your name user 3")
+name4=input("Enter your name user 4")
+material1=input("Enter a building material")
+material2=input("Enter a second building material")
+material3=input("Enter a third building material")
+print("There was 3 pigs,the first pig was called,"name1",the second pig was called ,"name2", the third pig was called,"name3", the first house was made of, "material1", te second house was made of ,"material2",The third house was made of ,"material3",But the big bag wolf called ,"name4",could not destroy the third house made of ,"material3",")
